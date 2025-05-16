@@ -13,14 +13,7 @@
       "cardGame": "Arcane Battlecards",
       "cardSet": "Core Set",
       "abilities": ["Fireball", "Flame Shield", "Ignite"],
-      "faction": {
-        "id": "faction_01",
-        "name": "Crimson Order",
-        "alignment": "Chaotic Good",
-        "symbolUrl": "https://raw.githubusercontent.com/ramzy35/projectWebontwikkeling_S2/main/Express/public/assets/openart-image_Crimson%20Order_raw.png",
-        "isSecretSociety": false,
-        "foundedYear": 1223
-      }
+      "factionId": "faction_01"
     },
     {
       "id": "002",
@@ -36,14 +29,7 @@
       "cardGame": "Arcane Battlecards",
       "cardSet": "Core Set",
       "abilities": ["Shadowstep", "Poison Dagger", "Cloak of Night"],
-      "faction": {
-        "id": "faction_02",
-        "name": "Nightfang Syndicate",
-        "alignment": "Neutral Evil",
-        "symbolUrl": "https://raw.githubusercontent.com/ramzy35/projectWebontwikkeling_S2/main/Express/public/assets/openart-image_Nightfang%20Syndicate_raw.png",
-        "isSecretSociety": true,
-        "foundedYear": 1301
-      }
+      "factionId": "faction_02"
     },
     {
       "id": "003",
@@ -59,14 +45,7 @@
       "cardGame": "Arcane Battlecards",
       "cardSet": "Core Set",
       "abilities": ["Heal", "Smite Undead", "Divine Barrier"],
-      "faction": {
-        "id": "faction_03",
-        "name": "Order of the Silver Flame",
-        "alignment": "Lawful Good",
-        "symbolUrl": "https://raw.githubusercontent.com/ramzy35/projectWebontwikkeling_S2/main/Express/public/assets/openart-image_Silver%20Flame_raw.png",
-        "isSecretSociety": false,
-        "foundedYear": 1100
-      }
+      "factionId": "faction_03"
     },
     {
       "id": "004",
@@ -82,14 +61,7 @@
       "cardGame": "Arcane Battlecards",
       "cardSet": "Core Set",
       "abilities": ["Lightning Bolt", "Storm Surge", "Electric Shield"],
-      "faction": {
-        "id": "faction_01",
-        "name": "Crimson Order",
-        "alignment": "Chaotic Good",
-        "symbolUrl": "https://raw.githubusercontent.com/ramzy35/projectWebontwikkeling_S2/main/Express/public/assets/openart-image_Crimson%20Order_raw.png",
-        "isSecretSociety": false,
-        "foundedYear": 1223
-      }
+      "factionId": "faction_04"
     },
     {
       "id": "005",
@@ -105,14 +77,7 @@
       "cardGame": "Arcane Battlecards",
       "cardSet": "Core Set",
       "abilities": ["Earth Slam", "Unbreakable Will", "Stone Fist"],
-      "faction": {
-        "id": "faction_04",
-        "name": "Stonekin Tribes",
-        "alignment": "Neutral",
-        "symbolUrl": "https://raw.githubusercontent.com/ramzy35/projectWebontwikkeling_S2/main/Express/public/assets/openart-image_Stonekin%20Tribes_raw.png",
-        "isSecretSociety": false,
-        "foundedYear": 950
-      }
+      "factionId": "faction_05"
     },
     {
       "id": "006",
@@ -128,14 +93,7 @@
       "cardGame": "Arcane Battlecards",
       "cardSet": "Core Set",
       "abilities": ["Regrowth", "Entangle", "Nature’s Wrath"],
-      "faction": {
-        "id": "faction_05",
-        "name": "Circle of the Blooming Grove",
-        "alignment": "Neutral Good",
-        "symbolUrl": "https://raw.githubusercontent.com/ramzy35/projectWebontwikkeling_S2/main/Express/public/assets/openart-image_Circle%20of%20the%20Blooming%20Grove_raw.png",
-        "isSecretSociety": false,
-        "foundedYear": 1050
-      }
+      "factionId": "faction_06"
     },
     {
       "id": "007",
@@ -151,14 +109,7 @@
       "cardGame": "Arcane Battlecards",
       "cardSet": "Core Set",
       "abilities": ["Raise Dead", "Bone Wall", "Death Coil"],
-      "faction": {
-        "id": "faction_06",
-        "name": "Coven of Endless Night",
-        "alignment": "Chaotic Evil",
-        "symbolUrl": "https://raw.githubusercontent.com/ramzy35/projectWebontwikkeling_S2/main/Express/public/assets/openart-image_Coven%20of%20Endless%20Night_raw.png",
-        "isSecretSociety": true,
-        "foundedYear": 666
-      }
+      "factionId": "faction_07"
     },
     {
       "id": "008",
@@ -174,14 +125,7 @@
       "cardGame": "Arcane Battlecards",
       "cardSet": "Core Set",
       "abilities": ["Lunar Arrow", "Silencing Shot", "Moon Veil"],
-      "faction": {
-        "id": "faction_07",
-        "name": "Moonwatch Sentinels",
-        "alignment": "Lawful Neutral",
-        "symbolUrl": "https://raw.githubusercontent.com/ramzy35/projectWebontwikkeling_S2/main/Express/public/assets/openart-image_Moonwatch%20Sentinels_raw.png",
-        "isSecretSociety": false,
-        "foundedYear": 1201
-      }
+      "factionId": "faction_08"
     },
     {
       "id": "009",
@@ -197,14 +141,7 @@
       "cardGame": "Arcane Battlecards",
       "cardSet": "Core Set",
       "abilities": ["Smash", "Berserk", "Iron Will"],
-      "faction": {
-        "id": "faction_08",
-        "name": "Ironfang Clan",
-        "alignment": "Chaotic Neutral",
-        "symbolUrl": "https://raw.githubusercontent.com/ramzy35/projectWebontwikkeling_S2/main/Express/public/assets/openart-image_Ironfang%20Clan_raw.png",
-        "isSecretSociety": false,
-        "foundedYear": 890
-      }
+      "factionId": "faction_09"
     }
   ]
   
